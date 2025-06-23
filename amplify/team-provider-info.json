@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bidform-dev-a2f8c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::930064500698:role/amplify-bidform-dev-a2f8c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::930064500698:role/amplify-bidform-dev-a2f8c-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-bidform-dev-a2f8c-deployment",
+      "UnauthRoleName": "amplify-bidform-dev-a2f8c-unauthRole",
+      "StackName": "amplify-bidform-dev-a2f8c",
+      "StackId": "arn:aws:cloudformation:ap-south-1:930064500698:stack/amplify-bidform-dev-a2f8c/970e8fc0-5013-11f0-bbb0-02d22378674d",
+      "AmplifyAppId": "d179pj1dmnnkme"
+    },
+    "categories": {
+      "auth": {
+        "bidform1807b1cb": {}
+      }
+    }
+  }
+}
